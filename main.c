@@ -3,9 +3,6 @@
 /**
 *  main - Entry point of the program
 *
-* contributor - MUHAMMAD ABDULRAHMAN (mabdul.am25@gmail.com)
-* DELPHINE UZOETO (delphineamaka@gmail.com)
-*
 * @ac: arg_c count
 * @av: arg_v vector
 *
